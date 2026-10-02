@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack | Estudante de Engenharia de Software`**
 
-Me chamo **João Pedro Paranhos**, tenho 18 anos e sou natural de Curitiba, Paraná.
+Me chamo **João Pedro Paranhos**, tenho 19 anos e sou natural de Curitiba, Paraná.
 
 Sou estudante de **Engenharia de Software** e possuo formação técnica em **Desenvolvimento de Sistemas**, construída durante minha trajetória no SESI/SENAI e TECPUC.
 
